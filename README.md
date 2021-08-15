@@ -47,7 +47,7 @@ http://localhost:3008/dispense?amount=2020&requiredNotes=100,20
 ```
 Response
 ```
-{"responseCode":"0","responseDesc":"SUCCESS","responseStatus":"SUCCESS","currencyBreakdown":"100 : 20,20 : 1,"}```
+{"responseCode":"0","responseDesc":"SUCCESS","responseStatus":"SUCCESS","currencyBreakdown":"100 : 20,20 : 1,"}
 ```
 
 3. Health check API
