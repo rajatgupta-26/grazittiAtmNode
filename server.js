@@ -4,7 +4,6 @@ const express = require('express'),
   bodyParser = require('body-parser');
 
 const routes = require('./routes.js'),
-  dbConfig = require('./config/database.js'),
   envConfig = require('./config/environment.js');
 
 const app = express();

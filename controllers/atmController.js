@@ -108,6 +108,8 @@ const sortCurrency = (arr) => {
     return arr;
 }
 
-module.exports ={
+
+
+module.exports = {
 	dispense
 }
